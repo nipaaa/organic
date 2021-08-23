@@ -1,0 +1,48 @@
+.back{
+    background-image: url(img/ia_100000121.png);
+    background-repeat: no-repeat;
+    position: center bottom;
+    background-blend-mode: overlay;
+    background-color: rgba(245, 245, 245, 0.979);
+   
+
+}
+
+
+#oil{
+    height: 300px;
+    width : 290px
+}
+.lemon{
+    background-image: url(img/7.jpg);
+    background-position: top center;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: contain;  
+    border-radius: 5%;  
+}
+.pata{
+    background-image: url(img/8.jpg);
+    background-position: top center;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: contain;   
+    border-radius: 5%;    
+}
+.but{
+    background-image: url(img/9.jpg);
+    background-position: top center;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: contain;     
+    border-radius: 5%;  
+}
+.capsicum{
+    background-image: url(img/sydney-rae-668606-unsplash.jpg);
+    background-position: top center;
+    background-color: rgba(0, 0, 0, 0.568);
+    background-blend-mode: overlay;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: contain;      
+}
