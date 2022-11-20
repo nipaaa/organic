@@ -44,5 +44,5 @@
     background-blend-mode: overlay;
     height: 400px;
     background-repeat: no-repeat;
-    background-size: contain;      
+    background-size: cover;      
 }
